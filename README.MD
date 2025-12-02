@@ -30,11 +30,11 @@ This project demonstrates a multi agent stock analysis workflow using LangGraph,
 
 
 ### Environment Variables
-BRIGHT_DATA_API_TOKEN=
-WEB_UNLOCKER_ZONE=unblocker
-BROWSER_ZONE=scraping_browser
-GROQ_API_KEY=yourkey
-GROQ_MODEL=model
+- BRIGHT_DATA_API_KEY=
+- WEB_UNLOCKER_ZONE=unblocker
+- BROWSER_ZONE=scraping_browser
+- GROQ_API_KEY=yourkey
+- GROQ_MODEL=model
 
 
 ### Known Hiccups
