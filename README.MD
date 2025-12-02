@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates a multi agent stock analysis workflow using LangGraph, Groq, and Bright Data MCP. A React frontend sends a query and intent, and the backend returns two stock recommendations plus a stepwise timeline visualization.
 
+## Demo Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F0szcpiTxIk/0.jpg)](https://www.youtube.com/watch?v=F0szcpiTxIk)
+
 ## Architecture
 
 ### Backend
